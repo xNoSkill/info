@@ -17,7 +17,7 @@
 .h1 {
 	text-decoration: underline;
 	color: #252523;
-	font-size: 200%
+	font-size: 100%
 }
 
 a {
