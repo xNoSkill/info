@@ -1,5 +1,6 @@
 * {
-	font-family: Comic Neue
+	font-family: Comic Neue;
+	background-color: #a39274;
 }
 
 .weblink {
@@ -22,4 +23,15 @@
 
 a {
 	color: #dfd8c8;
+}
+
+.header1 {
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+.cookies {
+	border-style: solid;
+	position: fixed;
+	margin-top: 30%;
 }
