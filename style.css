@@ -8,10 +8,9 @@
 }
 
 .div {
-  width: 50%;
-  height: 100px;
-  margin: 0 auto;
-  margin-top: 20%
+	text-align: center;	
+	padding: 20% 0;
+
   
 }
 
