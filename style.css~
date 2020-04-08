@@ -39,33 +39,75 @@ a {
 	font-weight: bold;
 	border-color: #dfd8c8;
 	border-bottom-style: hidden;
-	border-top-color: #b7aea0
+
 
 }
 
 .button1 {
 	margin-left: 10%;
+	background-color: #FFE4B5;
 }
 
 .button2 {
-	margin-left: 10%;;
+	margin-left: 10%;
+	background-color: #B8860B;
 }
 
 .table {
-	width: 25%;
+	width: 30%;
 	margin-left: 40%;
 	margin-right: 40%;
+	text-decoration:underline;
+}
+
+.arttext {
+	width: 90%;
+	font-size: 150%;
+	margin-top: 19%;
+	margin-left: 1%;
+	
+}
+
+.imghund {
+	width: 15%;
+	position: absolute;
+	left: 1%;
+}
+
+.hund {
+	left: 17%;
+	position: absolute;
+	top: 7%;
+	font-size: 300%;
+	width: 20%;
+	color: #FFDEAD;
+	border-style: solid;
+	text-align: center;
+	border-bottom-color: #8B814C;
+	border-right-color: #8B814C;
+}
+
+.imgstaubi {
+	right: 3%;
+	position: fixed;
+	bottom: 38%;
+	width: 20%;
+	border-style: solid;
+	
+	border-color: #FFDEAD;
+	border-bottom-color:#8B814C;
+	border-right-color:#8B814C;
 }
 
 
 
 
 
+quellen der bilder: 
 
+https://www.welt.de/wissenschaft/article195431699/Dackelblick-Woher-der-unwiderstehliche-Blick-von-Hunden-kommt.html
 
-
-
-
+https://www.jh-profishop.de/industriestaubsauger/?gclid=CjwKCAjw7LX0BRBiEiwA__gNw_1_YtkH6W260KWDx_gSaRiXCKi-F4v-rVKRNVP__5WndhfPjMF3exoCdYAQAvD_BwE&no_qty_discount=1&Shop=b2c&sd=true&wmc=pla&ef_id=CjwKCAjw7LX0BRBiEiwA__gNw_1_YtkH6W260KWDx_gSaRiXCKi-F4v-rVKRNVP__5WndhfPjMF3exoCdYAQAvD_BwE:G:s&s_kwcid=AL!8053!3!296520827908!!!g!882620961721!!1578296588!59891569152&pid=206434
 
 
 

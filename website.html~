@@ -4,7 +4,7 @@
 <title></title>
 <meta name="generator" content="Bluefish 2.2.10" >
 <meta name="author" content="Paul" >
-<meta name="date" content="2020-04-06T18:34:52+0100" >
+<meta name="date" content="2020-04-08T22:32:34+0100" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -20,29 +20,38 @@
 <form action="'.$SCRIPT_NAME.'">
 
 <h1 class="h1 header1">EIN ARTIKEL ÜBER BELANGLOSES GESCHWAFEL DER SOZIALEN MEDIEN</h1>
-
-
-
-
-
-
 <div class="cookies">
 <table class="table">	
 <td>
 	<p>Bitte akzeptieren sie unsere Kekse!</p>
 </td>
 <td>
-	<input type="submit" name="Akzeptieren" class="button1">
+	<input type="reset" name="Akzeptieren" class="button1" value="Akzeptieren">
 </td>
 <td>
-	<input type="submit" name="Einstellungen ändern" class="button2">
+	<input type="reset" name="Einstellungen ändern" class="button2" value="Einstellungen überprüfen">
 </td>
 	
 	
 </table>
 </div>
 
+<a href="https://www.welt.de/wissenschaft/article195431699/Dackelblick-Woher-der-unwiderstehliche-Blick-von-Hunden-kommt.html">
+<img src="hund.jpg" alt="hund" class="imghund">
+</a>
+<h2 class="hund">Welcher Hund passt am besten zu ihrer Persönlichkeit?!!</h2>
 
+<p class="arttext">	
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
+
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
+
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer
+</p>
+
+<img src="staubsauger.jpg" alt="staubsauger" class="imgstaubi">
 </form>
 </body>
 </html>

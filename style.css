@@ -45,27 +45,59 @@ a {
 
 .button1 {
 	margin-left: 10%;
+	background-color: #FFE4B5;
 }
 
 .button2 {
-	margin-left: 10%;;
+	margin-left: 10%;
+	background-color: #B8860B;
 }
 
 .table {
-	width: 25%;
+	width: 30%;
 	margin-left: 40%;
 	margin-right: 40%;
+	text-decoration:underline;
 }
 
+.arttext {
+	width: 90%;
+	font-size: 150%;
+	margin-top: 19%;
+	margin-left: 1%;
+	
+}
 
+.imghund {
+	width: 15%;
+	position: absolute;
+	left: 1%;
+}
 
+.hund {
+	left: 17%;
+	position: absolute;
+	top: 7%;
+	font-size: 300%;
+	width: 20%;
+	color: #FFDEAD;
+	border-style: solid;
+	text-align: center;
+	border-bottom-color: #8B814C;
+	border-right-color: #8B814C;
+}
 
-
-
-
-
-
-
+.imgstaubi {
+	right: 3%;
+	position: fixed;
+	bottom: 38%;
+	width: 20%;
+	border-style: solid;
+	
+	border-color: #FFDEAD;
+	border-bottom-color:#8B814C;
+	border-right-color:#8B814C;
+}
 
 
 
